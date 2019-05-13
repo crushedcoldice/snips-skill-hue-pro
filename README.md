@@ -3,10 +3,13 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/snipsco/snips-skill-hue-pro/blob/master/LICENSE)
 
 This repository contains the code used by Smart Light - Hue bundle. 
+Altered to run Shelly bulb with MQTT
+This repository contains the code used by Lichtsteuerung (German) - Shelly bundle
 
 ## User Guide
 
 ***The full documentation, please reach [here](https://snips.gitbook.io/documentation/snips-app/smart-light-hue)***
+https://docs.snips.ai/sample-apps/raspberry-pi-examples/smart-light-hue
 
 ## Contributing
 
